@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.demo"
+    },
+    "jhipsterVersion": "6.3.0",
+    "applicationType": "monolith",
+    "baseName": "jhliquibase",
+    "packageName": "com.demo",
+    "packageFolder": "com/demo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTczNjQ2YzVlODFmYzFhZDZjNzVjMmU5YjgzMjNhYmU2NDZiMjZkZDk5YTE2NDgzM2ExMmQxN2RlMTI1OTIwYWIxMTk0ZDViNWUyZWE4NGIwZDMxNjNkNTVhMjVlZDk1YWFmODFhZDcwZTE4OGU1YmU5NDNmNjJiNGIzNjZhY2Q=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
